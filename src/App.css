@@ -1,0 +1,17 @@
+body{
+  padding: 30px;
+  background-color: #f8f8f8;
+}
+
+.App{
+  border: 1px solid #cecece;
+  padding: 10px;
+  background-color: azure;
+}
+
+.contact{
+  position: relative;
+  float: right;
+  bottom: 120px;
+ line-height: 3px;
+}
